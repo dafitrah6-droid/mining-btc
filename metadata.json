@@ -1,0 +1,6 @@
+{
+  "name": "SatoMine: Secure BTC Miner",
+  "description": "Aplikasi penambangan BTC real-time asli menggunakan multi-threaded SHA-256 CPU Mining Engine aman dengan enkripsi tingkat tinggi AES-256-GCM dan penarikan langsung via Lightning Network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
